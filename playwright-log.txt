@@ -1,0 +1,74 @@
+{"level":30,"time":"2024-08-22T06:15:50.793Z","pid":759,"hostname":"Herus-Air","msg":"Listening on 59031"}
+(node:759) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2024-08-22T06:15:51.888Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:51.890Z","pid":759,"hostname":"Herus-Air","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:51.896Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:51.896Z","pid":759,"hostname":"Herus-Air","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:51.902Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-08-22T06:15:52.727Z","pid":759,"hostname":"Herus-Air","msg":"Adding browser to stack: chromium, version: 128.0.6613.18"}
+{"level":30,"time":"2024-08-22T06:15:52.727Z","pid":759,"hostname":"Herus-Air","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-08-22T06:15:52.727Z","pid":759,"hostname":"Herus-Air","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-08-22T06:15:52.731Z","pid":759,"hostname":"Herus-Air","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-08-22T06:15:52.731Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-08-22T06:15:52.747Z","pid":759,"hostname":"Herus-Air","msg":"Changed active context"}
+{"level":30,"time":"2024-08-22T06:15:53.308Z","pid":759,"hostname":"Herus-Air","msg":"Video path: undefined"}
+{"level":30,"time":"2024-08-22T06:15:53.308Z","pid":759,"hostname":"Herus-Air","msg":"Changed active page"}
+{"level":30,"time":"2024-08-22T06:15:54.484Z","pid":759,"hostname":"Herus-Air","msg":"End of node method newPage"}
+{"level":30,"time":"2024-08-22T06:15:54.502Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-08-22T06:15:54.503Z","pid":759,"hostname":"Herus-Air","msg":"Strict mode is enabled, find Locator with input[id=\"user-name\"] in page."}
+{"level":30,"time":"2024-08-22T06:15:54.533Z","pid":759,"hostname":"Herus-Air","msg":"End of node method fillText"}
+{"level":30,"time":"2024-08-22T06:15:54.536Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-08-22T06:15:54.536Z","pid":759,"hostname":"Herus-Air","msg":"Strict mode is enabled, find Locator with input[id=\"password\"] in page."}
+{"level":30,"time":"2024-08-22T06:15:54.541Z","pid":759,"hostname":"Herus-Air","msg":"End of node method fillText"}
+{"level":30,"time":"2024-08-22T06:15:54.544Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method click"}
+{"level":30,"time":"2024-08-22T06:15:54.544Z","pid":759,"hostname":"Herus-Air","msg":"Strict mode is enabled, find Locator with id=login-button in page."}
+{"level":30,"time":"2024-08-22T06:15:54.594Z","pid":759,"hostname":"Herus-Air","msg":"End of node method click"}
+{"level":30,"time":"2024-08-22T06:15:54.596Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method click"}
+{"level":30,"time":"2024-08-22T06:15:54.596Z","pid":759,"hostname":"Herus-Air","msg":"Strict mode is enabled, find Locator with id=add-to-cart-sauce-labs-backpack in page."}
+{"level":30,"time":"2024-08-22T06:15:54.619Z","pid":759,"hostname":"Herus-Air","msg":"End of node method click"}
+{"level":30,"time":"2024-08-22T06:15:54.622Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method click"}
+{"level":30,"time":"2024-08-22T06:15:54.622Z","pid":759,"hostname":"Herus-Air","msg":"Strict mode is enabled, find Locator with css=a[data-test=\"shopping-cart-link\"] in page."}
+{"level":30,"time":"2024-08-22T06:15:54.656Z","pid":759,"hostname":"Herus-Air","msg":"End of node method click"}
+{"level":30,"time":"2024-08-22T06:15:54.659Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method click"}
+{"level":30,"time":"2024-08-22T06:15:54.659Z","pid":759,"hostname":"Herus-Air","msg":"Strict mode is enabled, find Locator with css=button[data-test=\"checkout\"] in page."}
+{"level":30,"time":"2024-08-22T06:15:54.689Z","pid":759,"hostname":"Herus-Air","msg":"End of node method click"}
+{"level":30,"time":"2024-08-22T06:15:54.691Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-08-22T06:15:54.691Z","pid":759,"hostname":"Herus-Air","msg":"Strict mode is enabled, find Locator with css=input[data-test=\"firstName\"] in page."}
+{"level":30,"time":"2024-08-22T06:15:54.698Z","pid":759,"hostname":"Herus-Air","msg":"End of node method fillText"}
+{"level":30,"time":"2024-08-22T06:15:54.700Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-08-22T06:15:54.700Z","pid":759,"hostname":"Herus-Air","msg":"Strict mode is enabled, find Locator with css=input[data-test=\"lastName\"] in page."}
+{"level":30,"time":"2024-08-22T06:15:54.705Z","pid":759,"hostname":"Herus-Air","msg":"End of node method fillText"}
+{"level":30,"time":"2024-08-22T06:15:54.706Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-08-22T06:15:54.706Z","pid":759,"hostname":"Herus-Air","msg":"Strict mode is enabled, find Locator with css=input[data-test=\"postalCode\"] in page."}
+{"level":30,"time":"2024-08-22T06:15:54.709Z","pid":759,"hostname":"Herus-Air","msg":"End of node method fillText"}
+{"level":30,"time":"2024-08-22T06:15:54.714Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method click"}
+{"level":30,"time":"2024-08-22T06:15:54.714Z","pid":759,"hostname":"Herus-Air","msg":"Strict mode is enabled, find Locator with css=input[data-test=\"continue\"] in page."}
+{"level":30,"time":"2024-08-22T06:15:54.755Z","pid":759,"hostname":"Herus-Air","msg":"End of node method click"}
+{"level":30,"time":"2024-08-22T06:15:54.758Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:54.759Z","pid":759,"hostname":"Herus-Air","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:54.760Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:54.760Z","pid":759,"hostname":"Herus-Air","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:54.761Z","pid":759,"hostname":"Herus-Air","msg":"Changed active context"}
+{"level":30,"time":"2024-08-22T06:15:54.761Z","pid":759,"hostname":"Herus-Air","msg":"Changing current active page: page=8f33c5c4-2794-4c1e-b0a3-1c2782b9cecc"}
+{"level":30,"time":"2024-08-22T06:15:54.761Z","pid":759,"hostname":"Herus-Air","msg":"Changed active page"}
+{"level":30,"time":"2024-08-22T06:15:54.765Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:54.766Z","pid":759,"hostname":"Herus-Air","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:54.767Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-08-22T06:15:54.767Z","pid":759,"hostname":"Herus-Air","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-08-22T06:15:54.768Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-08-22T06:15:54.768Z","pid":759,"hostname":"Herus-Air","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-08-22T06:15:54.769Z","pid":759,"hostname":"Herus-Air","msg":"Changing current active page: page=8f33c5c4-2794-4c1e-b0a3-1c2782b9cecc"}
+{"level":30,"time":"2024-08-22T06:15:54.769Z","pid":759,"hostname":"Herus-Air","msg":"Changed active page"}
+{"level":30,"time":"2024-08-22T06:15:54.772Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:54.777Z","pid":759,"hostname":"Herus-Air","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:54.778Z","pid":759,"hostname":"Herus-Air","msg":"Changed active context"}
+{"level":30,"time":"2024-08-22T06:15:54.778Z","pid":759,"hostname":"Herus-Air","msg":"Changing current active page: page=8f33c5c4-2794-4c1e-b0a3-1c2782b9cecc"}
+{"level":30,"time":"2024-08-22T06:15:54.778Z","pid":759,"hostname":"Herus-Air","msg":"Changed active page"}
+{"level":30,"time":"2024-08-22T06:15:54.780Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-08-22T06:15:54.785Z","pid":759,"hostname":"Herus-Air","msg":"Removed page=35cee722-18d1-440d-b16e-d08ada6346c6 from context=5249e45e-b999-4aa6-b5a2-166890ccfc1d page stack"}
+{"level":30,"time":"2024-08-22T06:15:54.802Z","pid":759,"hostname":"Herus-Air","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-08-22T06:15:54.804Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:54.804Z","pid":759,"hostname":"Herus-Air","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-08-22T06:15:54.821Z","pid":759,"hostname":"Herus-Air","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-08-22T06:15:54.870Z","pid":759,"hostname":"Herus-Air","msg":"End of node method closeAllBrowsers"}
